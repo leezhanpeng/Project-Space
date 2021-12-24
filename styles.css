@@ -245,7 +245,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 55vw;
+        width: 60vw;
         z-index: -9;
     }
     .sub-text1 {
@@ -254,7 +254,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 40vw;
+        width: 45vw;
         z-index: -9;
         margin-top: 2vh;
     }
@@ -264,7 +264,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 40vw;
+        width: 45vw;
         z-index: -9;
         margin-top: 2vh;
     }
