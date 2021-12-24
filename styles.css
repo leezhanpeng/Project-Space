@@ -254,7 +254,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 60vw;
+        width: 55vw;
         z-index: -9;
         margin-top: 2vh;
     }
@@ -271,7 +271,7 @@ body, html {
     .centered-items {
         position: relative;
         z-index: 2;
-        width: 55vw;
+        width: 30vw;
         left: 50%;
         transform: translateX(-50%);
         z-index: -9;
