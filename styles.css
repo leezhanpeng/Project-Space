@@ -205,7 +205,7 @@ body, html {
         font-size: 2vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 35vw;
+        width: 40vw;
         margin-top: 2vh;
 
     }
@@ -215,7 +215,7 @@ body, html {
         font-size: 2vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 35vw;
+        width: 40vw;
         margin-top: 2vh;
     }
     .centered-items {
@@ -254,7 +254,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 35vw;
+        width: 40vw;
         z-index: -9;
         margin-top: 2vh;
     }
@@ -264,7 +264,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 35vw;
+        width: 40vw;
         z-index: -9;
         margin-top: 2vh;
     }
