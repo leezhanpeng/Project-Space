@@ -263,7 +263,7 @@ body, html {
         transform: translateX(-50%);
         width: 55vw;
         z-index: -9;
-        margin-top: 41vh;
+        margin-top: 43vh;
     }
     .sub-text2 {
         font-family: monospace;
