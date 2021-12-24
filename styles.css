@@ -144,39 +144,39 @@ body, html {
 @media (min-width: 993px) {
     .intro-text {
         font-family: monospace;
-        position: absolute;
-        top: 15%;
-        left: 40%;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
         font-size: 1vw;
-        width: 40vw
+        width: 55vw
     }
     .sub-text1 {
         font-family: monospace;
-        position: absolute;
-        top: 55%;
-        left: 36%;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
         font-size: 1vw;
-        width: 40vw;
-        left: 15%;
-        transform: translateX(-15%);
+        width: 35vw;
+        margin-top: 2vh;
     }
     .sub-text2 {
         font-family: monospace;
-        position: absolute;
-        top: 55%;
-        left: 56%;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
         font-size: 1vw;
-        width: 40vw;
-        left: 85%;
-        transform: translateX(-85%);
+        width: 35vw;
+        margin-top: 2vh;
     }
     .centered-items {
-        position: absolute;
+        position: relative;
         top: 8%;
-        left: 10%;
+        left: 50%;
+        transform: translateX(-50%);
         z-index: 2;
         text-align: center;
-        width: 20vw
+        width: 10vw;
+        margin-top: 2vh;
     }
     .nav-size {
         font-size: 15px;
@@ -193,42 +193,38 @@ body, html {
 @media (min-width: 577px) and (max-width: 992px) {
     .intro-text {
         font-family: monospace;
-        position: absolute;
-        top: 0;
+        position: relative;
         font-size: 2vw;
-        left: 30%;
-        margin-top: 25vh;
+        left: 50%;
+        transform: translateX(-50%);
         width: 55vw
     }
     .sub-text1 {
         font-family: monospace;
-        position: absolute;
-        top: 0;
+        position: relative;
         font-size: 2vw;
-        left: 15%;
-        transform: translateX(-15%);
+        left: 50%;
+        transform: translateX(-50%);
         width: 35vw;
-        margin-top: 75vh;
+        margin-top: 2vh;
 
     }
     .sub-text2 {
         font-family: monospace;
-        position: absolute;
-        top: 0;
+        position: relative;
         font-size: 2vw;
-        left: 85%;
-        transform: translateX(-85%);
+        left: 50%;
+        transform: translateX(-50%);
         width: 35vw;
-        margin-top: 75vh;
+        margin-top: 2vh;
     }
     .centered-items {
-        position: absolute;
-        top: 0;
-        left: 10%;
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
         z-index: 2;
         text-align: center;
         width: 15vw;
-        margin-top: 25vh;
     }
     .nav-size {
         font-size: 15px;
@@ -258,8 +254,9 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 55vw;
+        width: 35vw;
         z-index: -9;
+        margin-top: 2vh;
     }
     .sub-text2 {
         font-family: monospace;
@@ -267,8 +264,9 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 55vw;
+        width: 35vw;
         z-index: -9;
+        margin-top: 2vh;
     }
     .centered-items {
         position: relative;
