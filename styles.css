@@ -245,7 +245,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 55vw;
+        width: 70vw;
     }
     .sub-text1 {
         font-family: monospace;
@@ -253,7 +253,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 55vw;
+        width: 70vw;
         margin-top: 2vh;
     }
     .sub-text2 {
@@ -262,7 +262,7 @@ body, html {
         font-size: 3vw;
         left: 50%;
         transform: translateX(-50%);
-        width: 55vw;
+        width: 70vw;
         margin-top: 2vh;
     }
     .centered-items {
